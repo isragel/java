@@ -7,5 +7,7 @@ Olá! bem vindo ao meu livro de receitas!
 
 
 - Strogonoff
-- Pavê ou comer
-- bolo
+
+- Pavê
+
+- Sonho
